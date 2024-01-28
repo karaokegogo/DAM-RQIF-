@@ -124,7 +124,7 @@ def get_file_name(file_path):
 
 # Create the main window
 window = tk.Tk()
-window.title("QQkaraoke")
+window.title("karaokegogo")
 window.geometry("600x800")  # Set window size
 
 # Add title
